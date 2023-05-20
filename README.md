@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there. I'm Ismael 👋😁
 
-<!--
-**IsmaCortGtz/IsmaCortGtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student from México. 🇲🇽 And I wanna learn a lot about coding and create amazing things. 🤩
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+ - 🎓 Currently I'm a student.
+ - 🎮 I love to play videogames.
+ - ⚽ I like sports like soccer and basketball.
+ - 📕 I love to learn new things with my free time.
+
+
+## Languages and Tools:
+![My Skills](https://skills.thijs.gg/icons?i=js,css,html,nodejs,py,cpp)
