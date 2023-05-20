@@ -11,4 +11,4 @@ I'm a student from México. 🇲🇽 And I wanna learn a lot about coding and cr
 
 
 ## Languages and Tools:
-![My Skills](https://skills.thijs.gg/icons?i=js,css,html,nodejs,py,cpp)
+[![My Skills](https://skills.thijs.gg/icons?i=js,css,html,nodejs,py,cpp)](https://github.com/IsmaCortGtz)
