@@ -12,4 +12,4 @@ I'm a **student** from México. 🇲🇽 And I want to **learn** a lot about cod
 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,css,html,nodejs,py,cpp,java)](https://github.com/IsmaCortGtz)
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,nodejs,py,cpp,java,php,laravel)](https://github.com/IsmaCortGtz)
